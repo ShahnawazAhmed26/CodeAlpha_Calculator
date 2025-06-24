@@ -28,8 +28,4 @@ CodeAlpha_Calculator/
 |--------------|-------------|
 | ![desktop](desktop.png) | ![mobile](mobile.png) |
 
-## 📽️ Video Explanation
-Check out the full video demo + walkthrough here:  
-[🔗 LinkedIn Post](https://www.linkedin.com/in/your-profile)
-
 
